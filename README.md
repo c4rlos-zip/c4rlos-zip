@@ -65,11 +65,11 @@ mission : convertir ideas en productos con vibra
 └───────────────────────────────────────────┘
 ```
 
-> Spotify conectado con UID `313s765wuwh754rhuqb4sm7nl4ba`. Si necesitas regenerarlo, entra a <https://spotify-github-profile.kittinanx.com> y actualiza el UID en los enlaces del widget.
+> 
 
-<div align="center">
+<div aalign"center">
 
-<sub>minimal code · soft visuals · good music</sub>
+<sub>minimal code · soft visuals · good music</centerter>
 
 <br />
 
