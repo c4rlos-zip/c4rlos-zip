@@ -46,8 +46,8 @@ mission : convertir ideas en productos con vibra
     <td align="left">
       <sub><strong>live from spotify</strong></sub>
       <br />
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=false&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=8b949e&bar_color_cover=false" alt="Now playing on Spotify" />
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313s765wuwh754rhuqb4sm7nl4ba&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313s765wuwh754rhuqb4sm7nl4ba&cover_image=false&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=8b949e&bar_color_cover=false" alt="Now playing on Spotify" />
       </a>
       <br />
       <sub>conecta tu cuenta · comparte el beat actual · mantén la vibra visible</sub>
@@ -65,7 +65,7 @@ mission : convertir ideas en productos con vibra
 └───────────────────────────────────────────┘
 ```
 
-> Para activarlo: entra a <https://spotify-github-profile.kittinanx.com>, conecta Spotify y reemplaza `YOUR_SPOTIFY_UID` por tu UID generado.
+> Spotify conectado con UID `313s765wuwh754rhuqb4sm7nl4ba`. Si necesitas regenerarlo, entra a <https://spotify-github-profile.kittinanx.com> y actualiza el UID en los enlaces del widget.
 
 <div align="center">
 
