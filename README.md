@@ -2,61 +2,54 @@
 
 # c4rlos.zip
 
-```
-┌──────────────────────────────┐
-│      code · rhythm · flow     │
-└──────────────────────────────┘
-```
+<p>
+  <code>vibecoder</code> · <code>music lover</code> · <code>minimal builds</code>
+</p>
 
-### Vibecoder entre beats, ideas y código minimalista.
+<pre>
+˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦
+      code in flow · beats on loop · ideas in motion
+.　　　˚　　　　. ✦　　　˚　　　　　　.　　　˚
+</pre>
 
 </div>
 
 ---
 
-## Sobre mí
+### Hola, soy Carlos
 
-Soy **Carlos**, un **vibecoder** que disfruta construir cosas con calma, intención y buen ritmo. Me gusta transformar ideas en experiencias digitales limpias, funcionales y con personalidad.
+Soy un **vibecoder**: programo buscando flow, cuidando la estética y dejando que la música marque el ritmo. Me gusta crear experiencias digitales simples, limpias y con personalidad; proyectos que se sientan ligeros, útiles y visualmente agradables.
 
-La música es mi combustible creativo: acompaña mis sesiones de código, marca el tempo de mis proyectos y me ayuda a encontrar flow cuando estoy explorando nuevas soluciones.
-
-```text
-idea ──► beat ──► código ──► producto
+```txt
+mood    : calm focus
+sound   : playlists en repeat
+style   : minimal · clean · aesthetic
+mission : convertir ideas en productos con vibra
 ```
 
-## Lo que me mueve
+### En mi frecuencia
 
-- Crear interfaces simples, cuidadas y con detalles que se sientan bien.
-- Aprender tecnologías nuevas mientras construyo proyectos reales.
-- Mantener un estilo visual limpio: menos ruido, más intención.
-- Mezclar creatividad, música y desarrollo para programar con flow.
+- Diseño interfaces con intención: menos ruido, más detalle.
+- Construyo proyectos personales para aprender haciendo.
+- Mezclo código, música y creatividad para mantener el flow.
+- Busco que cada repo tenga una identidad clara y cuidada.
 
-## Stack en progreso
+### Now playing
 
-```text
-Frontend      ███████░░░  explorando y puliendo
-Backend       █████░░░░░  construyendo bases sólidas
-Creatividad   ██████████  siempre encendida
-Música        ██████████  modo repeat
+```txt
+┌─ currently ───────────────────────────────┐
+│ creando cosas pequeñas con mucho carácter │
+│ mejorando lógica, diseño y estructura     │
+│ programando con beats de fondo            │
+└───────────────────────────────────────────┘
 ```
-
-## Actualmente
-
-- 🔭 Construyendo proyectos personales con identidad propia.
-- 🌱 Mejorando mi lógica, diseño y forma de escribir código.
-- 🎧 Programando con playlists que van del focus al hype.
-- ✨ Buscando que cada repo tenga una vibra clara.
-
----
 
 <div align="center">
 
-```text
-       ░░      ░░      ░░
-    ░░    ░░      ░░    ░░
-       ░░      ░░      ░░
-```
+<sub>minimal code · soft visuals · good music</sub>
 
-**Si el código compila y la música pega, vamos bien.**
+<br />
+
+`━━━━━━━━━━━━━━━━━━━━━━`
 
 </div>
