@@ -36,6 +36,27 @@ mission : convertir ideas en productos con vibra
 
 ### Now playing
 
+<div align="center">
+
+<table>
+  <tr>
+    <td width="72">
+      <img src=".github/assets/spotify-minimal.svg" width="48" alt="Spotify" />
+    </td>
+    <td align="left">
+      <sub><strong>live from spotify</strong></sub>
+      <br />
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=false&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=8b949e&bar_color_cover=false" alt="Now playing on Spotify" />
+      </a>
+      <br />
+      <sub>conecta tu cuenta · comparte el beat actual · mantén la vibra visible</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ```txt
 ┌─ currently ───────────────────────────────┐
 │ creando cosas pequeñas con mucho carácter │
@@ -43,6 +64,8 @@ mission : convertir ideas en productos con vibra
 │ programando con beats de fondo            │
 └───────────────────────────────────────────┘
 ```
+
+> Para activarlo: entra a <https://spotify-github-profile.kittinanx.com>, conecta Spotify y reemplaza `YOUR_SPOTIFY_UID` por tu UID generado.
 
 <div align="center">
 
